@@ -1,0 +1,24 @@
+{
+	"name": "express_example",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start": "node app.js",
+		"watch": "nodemon app.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/mehrdad-shabanzadeh/express_example.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/mehrdad-shabanzadeh/express_example/issues"
+	},
+	"homepage": "https://github.com/mehrdad-shabanzadeh/express_example#readme",
+	"dependencies": {
+		"express": "^4.17.1"
+	}
+}
